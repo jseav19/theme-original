@@ -445,7 +445,7 @@ h6 {
   margin-top: 30px;
   margin-bottom: 20px;
   padding: 50px 30px 30px 30px;
-  font-size: 12px;
+  font-size: 18px;
   color: #666666;
 }
 .bio img.avatar {
@@ -632,7 +632,7 @@ footer {
   border-radius: 5px;
 }
 .login label {
-  font-weight: bold;
+  .bio: bold;
   font-size: 10pt;
   line-height: 10pt;
   padding-bottom: 7px;
