@@ -198,15 +198,13 @@ p {
   border-bottom: 0;
 }
 .navbar-inner {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background-color: #2eb18d;
   background-color: #2C9936;
   background-image: none;
   background-repeat: no-repeat;
   filter: none;
-  box-shadow: none !important;
-  -webkit-box-shadow: none !important;
-  border-bottom: 0;
 }
 a.brand,
 a.brand:link,
