@@ -201,7 +201,7 @@ p {
   padding-top: 20px;
   padding-bottom: 30px;
   background-color: #2C9936;
-  background-image: none;
+  background-image: url("assets/images/banner.jpg");
   background-repeat: no-repeat;
   filter: none;
 }
